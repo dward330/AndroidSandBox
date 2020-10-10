@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidHolaMundo</string>
+    <string name="enterMessage_hint">Por favor ingrese un mensaje</string>
+    <string name="save_button">ahorra</string>
+    <string name="greetingToWorld">Hola Mundo!</string>
+</resources>
